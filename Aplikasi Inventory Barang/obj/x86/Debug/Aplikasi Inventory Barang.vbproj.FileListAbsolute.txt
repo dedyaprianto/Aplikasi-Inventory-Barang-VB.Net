@@ -1,0 +1,32 @@
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\bin\Debug\Aplikasi Inventory Barang.exe.config
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\bin\Debug\Aplikasi Inventory Barang.exe
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\bin\Debug\Aplikasi Inventory Barang.pdb
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\bin\Debug\Aplikasi Inventory Barang.xml
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\bin\Debug\Guna.UI2.dll
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Admin.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Dashboard.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Laporan_Data_Admin.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Laporan_Data_Barang.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Laporan_Data_Barang_Keluar.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Laporan_Data_Barang_Masuk.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Laporan_Data_Penerima.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Laporan_Data_Supplier.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Login.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Resources.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Penerima.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Product.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Product_In.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Product_Out.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Reset__Password.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi_Inventory_Barang.Supplier.resources
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi Inventory Barang.vbproj.GenerateResource.Cache
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\RdlCompile.cache
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi Inventory Barang.exe
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi Inventory Barang.xml
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi Inventory Barang.pdb
+C:\Users\Dedy Aprianto\documents\visual studio 2010\Projects\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi Inventory Barang.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Aplikasi Inventory Barang\Aplikasi Inventory Barang\bin\Debug\Aplikasi Inventory Barang.exe.config
+C:\xampp\htdocs\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi Inventory Barang.exe
+C:\xampp\htdocs\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi Inventory Barang.xml
+C:\xampp\htdocs\Aplikasi Inventory Barang\Aplikasi Inventory Barang\obj\x86\Debug\Aplikasi Inventory Barang.pdb
